@@ -1,2 +1,2 @@
-# desde-lejos
-Blog con mis comentarios sobbre temas actuales.
+# Desde Lejos
+Blog con mis comentarios sobre temas actuales.
