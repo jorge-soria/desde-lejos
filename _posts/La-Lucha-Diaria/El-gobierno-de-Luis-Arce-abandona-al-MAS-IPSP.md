@@ -1,3 +1,8 @@
+---
+layout: page
+title: El gobierno de Luis Arce abandona al MAS-IPSP
+permalink: 
+---
 # El gobierno de Luis Arce abandona al MAS-IPSP
 
 El 28 de junio 20203 la Asamblea Legislativa Plurinacional (ALP) dio un abrumador voto por la censura al ministro de gobierno Eduardo del Castillo del Carpio. 
