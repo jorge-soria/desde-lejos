@@ -22,7 +22,7 @@ title: Desde lejos
 email: jorge.soria@getmail.no
 description: >- # this means to ignore newlines until "baseurl:"
   Mi blog con temas de mi interés.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Desde-Lejos" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jorge-soria
