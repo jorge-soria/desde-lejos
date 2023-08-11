@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Este es el index.md. Vamos a ver donde aparece.

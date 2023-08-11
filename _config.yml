@@ -18,19 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Desde lejos
-email: jorge.soria@getmail.no
+title: Desde Lejos
+# email: jorge.soria@getmail.no
 description: >- # this means to ignore newlines until "baseurl:"
-  Mi blog con temas de mi interés.
+  Opiniones e ideas escritas desde lejos
 baseurl: "/Desde-Lejos" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jorge-soria
+author: Jorge Soria
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+
+markdown: GFM
+
+collections:
+  dia-a-dia:
+      output: true
+      title: Día a día
+      directory: /_dia-a-dia
+  horizontes:
+      output: true
+      title: Horizontes
+      directory: /_horizontes
+  for-fellesskapet:
+      output: true
+      title: For fellesskapet
+      directory: /_for-fellesskapet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
