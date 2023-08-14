@@ -35,3 +35,6 @@ end
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+# To secure external links in new tab.
+gem 'jekyll-target-blank'

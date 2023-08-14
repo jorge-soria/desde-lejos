@@ -23,13 +23,14 @@ title: Desde Lejos
 description: >- # this means to ignore newlines until "baseurl:"
   Opiniones e ideas escritas desde lejos
 baseurl: "/Desde-Lejos" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jorge-soria.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Jorge Soria
 
 # Build settings
 # theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 markdown: GFM
 
