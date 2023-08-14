@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Info
-background: '/PATH_TO_IMAGE'
+background: /images/wiphala-enciclopedia-de-bolivia.webp
 ---
 
 # El porqué de este blog

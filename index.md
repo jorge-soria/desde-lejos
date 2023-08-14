@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+background: /images/wiphala-enciclopedia-de-bolivia.webp
 ---
-
-Este es el index.md. Vamos a ver donde aparece.
