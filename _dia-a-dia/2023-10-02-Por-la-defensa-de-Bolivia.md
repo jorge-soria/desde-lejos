@@ -20,7 +20,7 @@ La estrategia esbozada por Jorge Richter muestra de manera franca a dónde va el
 
 * Las amenazas primero veladas y luego públicas a la integridad física del hermano Evo Morales junto a los intentos de debilitar su liderazgo se han encontrado con una autoridad política reconocida desde los hogares en los lugares más escondidos de nuestro país hasta líderes políticos y trabajadores de los cinco continentes. El hermano Evo Morales encarna la hegemonía del campo popular que molesta tanto a Luis Arce cuando trata de consensuar un acuerdo de pacificación.
 
-Estos tres ataques que se concentran esta semana en Lauca Ñ, intentando dañar al 10. Congreso Nacional del MAS-IPSP, son intentos del gobierno de destruir al Estado Plurinacional de Bolivia y de abrir las puertas a la república colonial y racista que la oligarquía. Un acuerdo entre el gobierno de Luis Arce y los representantes de la oligarquía sólo puede ser realidad sobre la debilitación a largo plazo, si no la desaparición del MAS-IPSP y de su dirigente y futuro candidato a la presidencia Evo Morales. Defenderlos contra estos ataques es defender el Estado Plurinacional de Bolivia!
+Estos tres ataques que se concentran esta semana en Lauca Ñ, intentando dañar al 10. Congreso Nacional del MAS-IPSP, son intentos del gobierno de destruir al Estado Plurinacional de Bolivia y de abrir las puertas a la república colonial y racista. Un acuerdo entre el gobierno de Luis Arce y los representantes de la oligarquía sólo puede ser realidad sobre la debilitación a largo plazo, si no la desaparición del MAS-IPSP y de su dirigente y futuro candidato a la presidencia Evo Morales. Defenderlos contra estos ataques es defender el Estado Plurinacional de Bolivia!
 
 1) El Central de Abya Yala del 2 de agosto 2023.
 
