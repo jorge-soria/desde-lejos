@@ -3,7 +3,7 @@ layout: post
 title: Los ataques al Estado Plurinacional de Bolivia pasan por el 10. congreso del MAS-IPSP
 collection: la-lucha-diaria
 background: /images/dia-a-dia/2023-10-02-Por-la-defensa-de-Bolivia.png
-excerpt: La oligarquía boliviana se ha opuesto de manera violenta y de manera política al Estado Plurinacional desde el día mismo de su inicio en el 2009. Le ayuda ahora un nuevo escudero, es el gobierno de Luis Arce Catacora que amenaza la existencia misma de nuestra Bolivia actual.
+excerpt: El 10. Congreso Nacional del MAS-IPSP es el punto focal de los ataques del gobierno y la oligarquía al Estado Plurinacional de Bolivia.
 ---
 
 # Los ataques al Estado Plurinacional de Bolivia pasan por el 10. congreso del MAS-IPSP
@@ -23,5 +23,4 @@ La estrategia esbozada por Jorge Richter muestra de manera franca a dónde va el
 Estos tres ataques que se concentran esta semana en Lauca Ñ, intentando dañar al 10. Congreso Nacional del MAS-IPSP, son intentos del gobierno de destruir al Estado Plurinacional de Bolivia y de abrir las puertas a la república colonial y racista. Un acuerdo entre el gobierno de Luis Arce y los representantes de la oligarquía sólo puede ser realidad sobre la debilitación a largo plazo, si no la desaparición del MAS-IPSP y de su dirigente y futuro candidato a la presidencia Evo Morales. Defenderlos contra estos ataques es defender el Estado Plurinacional de Bolivia!
 
 1) El Central de Abya Yala del 2 de agosto 2023.
-
 https://www.youtube.com/watch?v=hYMNWcNS5rA
