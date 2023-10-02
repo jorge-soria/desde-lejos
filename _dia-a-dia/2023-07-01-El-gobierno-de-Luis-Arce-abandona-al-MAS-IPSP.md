@@ -1,9 +1,9 @@
----
+XXX---
 layout: post
 title: El gobierno de Luis Arce abandona al MAS-IPSP
 collection: la-lucha-diaria
 excerpt: Hmm vamos a ver!
----
+XXX---
 
 # El gobierno de Luis Arce abandona al MAS-IPSP
 
