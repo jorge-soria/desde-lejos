@@ -2,7 +2,7 @@
 layout: post
 title: Los ataques al Estado Plurinacional de Bolivia pasan por el 10. congreso del MAS-IPSP
 collection: la-lucha-diaria
-background: /images/dia-a-dia/2023-10-02-Por-la-defensa-de-Bolivia.png
+background: /images/dia-a-dia/2023-10-02-Por-la-defensa-de-Bolivia-small.png
 excerpt: El 10. Congreso Nacional del MAS-IPSP es el punto focal de los ataques del gobierno y la oligarquía al Estado Plurinacional de Bolivia.
 ---
 
