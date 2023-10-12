@@ -4,4 +4,6 @@
 
 layout: home
 background: /images/wiphala-enciclopedia-de-bolivia.webp
+background-width: 750
+background-height: 267
 ---

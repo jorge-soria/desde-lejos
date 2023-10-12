@@ -32,8 +32,10 @@ plugins:
   - jekyll-feed
   - jekyll-target-blank
 
-markdown: GFM
-
+# markdown: kramdown is the default
+kramdown:
+  input: Kramdown
+  
 collections:
   dia-a-dia:
       output: true
