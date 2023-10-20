@@ -37,7 +37,7 @@ Note that we depend of the following front matter myvariables defined in the ind
 
         {{ page.content }}
 
-        <!-- Home Post List -->
+        <!-- Collection Home Post List -->
         {% for collection in site.collections %}
           {% if collection.label == page.collection_name %}
             {% assign sorted_posts = collection.docs | reverse %}
@@ -59,8 +59,7 @@ Note that we depend of the following front matter myvariables defined in the ind
                     {% else %}
                     {{ site.author }}
                     {% endif %}
-                    el
-                    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+                    {% include date.html content=post.date %} &middot; {% include read_time.html content=post.content %}
                   </p>
                 </article>
                 <hr>

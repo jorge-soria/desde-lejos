@@ -1,0 +1,2 @@
+{% assign d = include.content %}
+{{ d | date: " el %-d de " }}{% assign m = d | date: "%-m" | minus: 1 %} {{ site.data.es.months[m] }}{{ d | date: " de %Y" }}

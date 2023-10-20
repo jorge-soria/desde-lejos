@@ -7,7 +7,7 @@ Accepts a parameter to show just the most recent posts up to a LIMIT.
 <!-- Get the parameter for list length -->
 {% assign upto = include.upto | default: 10000 %}
 
-<!-- Build a unified and sorted array with all articles. -->
+<!-- Build an unified and sorted array with all articles. -->
 {% assign all_posts = "" | split: "," %}
 {% for collection in site.collections %}
   {% for post in collection.docs %}
@@ -16,7 +16,7 @@ Accepts a parameter to show just the most recent posts up to a LIMIT.
     {% endif %}
   {% endfor %}
 {% endfor %}
-{% assign sorted_posts = all_posts | sort: 'last_updated' | reverse %}
+{% assign sorted_posts = all_posts | sort: post.date | reverse %}
 
 {% for post in sorted_posts limit : upto %}
 
@@ -35,11 +35,7 @@ Accepts a parameter to show just the most recent posts up to a LIMIT.
       {% else %}
         {{ site.author }}
       {% endif %}
-      el
-      {{ post.date | date: '%B %d, %Y' }} &middot;
-      <span class="reading-time" title="Estimated read time">
-      {% assign words = post.content | number_of_words %}
-      se lee en {% if words < 270 %} 1 minuto {% else %} {{ words | divided_by:135 }} minutos {% endif %} </span>
+      {% include date.html content=post.date %} &middot; {% include read_time.html content=post.content %}
     </p>
   </article>
   <hr>
