@@ -19,4 +19,13 @@ Sin la coraza de su propio Estado, con un derrumbe económico acelerado y con un
 
 Luis Arce Catacora preside un gobierno de destrucción nacional. La destrucción es tan evidente, que no podría ganar las elecciones del 2025 ni siquiera robando la sigla del MAS-IPSP. Su objetivo estratégico no es una victoria electoral, es la destrucción del Estado Plurinacional de Bolivia y la restauración de la república, una república de pongos.
 
+La política desde la oposición democrática de izquierda se centra entonces en la defensa de nuestro Estado Plurinacional, de la dignidad e igualdad, del bienestar conquistado en 14 años, de la soberanía:
+
+* La defensa del hermano Evo Morales no es ya el simple apoyo a un líder, es la defensa del constructor de nuestro Estado.
+* La defensa del MAS-IPSP no es ya un acto simplemente político, es la defensa de la única organización que puede enfrentarse y vencer este intento de destrucción y de restauración de la república.
+* La defensa de las organizaciones sociales no es ya un acto organizativo, es preparar la lucha popular.
+* La resistencia contra la destrucción de las instituciones no es un mero acto reivindicativo, se trata de la defensa de nuestro Estado Plurinacional.
+* La defensa de la economía popular y nacional se convierte an la defensa de nuestra esperanza.
+
+
 <a href="https://m.facebook.com/story.php?story_fbid=pfbid0SToTwR1NZg3zvN6Qy7Wsyz88pfkZ8mca2onbvr67XD6JwLRqeCKmJf6FyNvVTCW1l&id=100070320483013" target="_blank">[1] Originalmente publicado por Radio Kawsachun Coca</a>

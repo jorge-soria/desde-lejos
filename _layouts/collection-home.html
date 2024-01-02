@@ -41,39 +41,37 @@ Note that we depend of the following front matter myvariables defined in the ind
         {% for collection in site.collections %}
           {% if collection.label == page.collection_name %}
             {% assign sorted_posts = collection.docs | reverse %}
-            {% for post in sorted_posts limit : 10 %}
-              {% if post.type != "index" %}
+            {% if post.type != "index" %}
 
-                <article class="post-preview">
-                  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                    <h2 class="post-title">{{ post.title }}</h2>
-                    {% if post.subtitle %}
-                    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-                    {% else %}
-                    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 30 }}</h3>
-                    {% endif %}
-                  </a>
-                  <p class="post-meta">Publicado por
-                    {% if post.author %}
-                    {{ post.author }}
-                    {% else %}
-                    {{ site.author }}
-                    {% endif %}
-                    {% include date.html content=post.date %} &middot; {% include read_time.html content=post.content %}
-                  </p>
-                </article>
-                <hr>
+              <article class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                  <h2 class="post-title">{{ post.title }}</h2>
+                  {% if post.subtitle %}
+                  <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                  {% else %}
+                  <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 30 }}</h3>
+                  {% endif %}
+                </a>
+                <p class="post-meta">Publicado por
+                  {% if post.author %}
+                  {{ post.author }}
+                  {% else %}
+                  {{ site.author }}
+                  {% endif %}
+                  {% include date.html content=post.date %} &middot; {% include read_time.html content=post.content %}
+                </p>
+              </article>
+              <hr>
 
-              {% endif %}
-            {% endfor %}
+            {% endif %}
           {% endif %}
         {% endfor %}
 
-        <!-- Pager -->
+        <!-- Pager
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">Todos los artículos &rarr;</a>
+          <a class="btn btn-primary float-right" href="{{/page.collection_name | relative_url }}">Todos los artículos &rarr;</a>
         </div>
-
+-->
       </div>
     </div>
   </div>
