@@ -3,8 +3,8 @@ layout: post
 title: El Órgano Judicial ya está cerrado
 collection: la-lucha-diaria
 background: /images/dia-a-dia/2024-02-08-el-organo-judicial-ya-esta-cerrado.png
-background-width: 600
-background-height: 337
+background-width: 1618
+background-height: 654
 excerpt: La auto-prórroga ilegal de los magistrados ha cerrado efectivamente el Órgano Judicial desde el 2. de enero.
 ---
 
