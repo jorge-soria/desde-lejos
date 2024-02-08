@@ -21,6 +21,6 @@ Lo que ese señor no ha entendido y lo que el pueblo y las clases medias sí ent
 
 Pero lo que es infinitamente más importante, que mientras estos magistrados sigan usando una autoridad ilegalmente mantenida, están anulando la Constitución Política del Estado y están instaurando un Estado de excepción. En ese Estado, el poder manda. El presidente puede pedir excepciones para gobernar en dictadura. Y los poderosos podrán comprar resoluciones a conveniencia. Más allá de la corrupción de la justicia, pasamos a un Estado en que la ilegalidad es ley incontestable.
 
-Es por eso que el bloqueo nacional de caminos rechaza esa ilegalidad y muestra que según la constitución y la ley: El Poder Judicial está cerrado.
+Es por eso que el bloqueo nacional de caminos rechaza esa ilegalidad y muestra que según la constitución y la ley: El Poder Judicial está cerrado. Las elecciones judiciales son la única manera de reabrirlos!
 
-[1] <a href="https://eldeber.com.bo/pais/no-queremos-que-se-cierre-el-organo-judicial-la-respuesta-de-jerges-mercado-ante-el-debate-sobre-el-_356125" target="_blank">[1] Declaraciones de Jerges Mercado a El Deber</a>
+[1] <a href="https://eldeber.com.bo/pais/no-queremos-que-se-cierre-el-organo-judicial-la-respuesta-de-jerges-mercado-ante-el-debate-sobre-el-_356125" target="_blank">Declaraciones de Jerges Mercado a El Deber</a>
