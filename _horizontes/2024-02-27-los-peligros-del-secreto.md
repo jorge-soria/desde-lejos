@@ -11,7 +11,7 @@ excerpt: Luis Arce cuestiona la soberanía del litio y lo esconde en los conveni
 
 # Las trampas del secreto
 
-El gobierno de Luis Arce ha firmado convenios con empresas extranjeras para la explotación del litio boliviano y los mantiene en secreto. Argumenta la necesidad de implementar la extracción directa del litio (EDL) que debeería ser superior a la extracción por evaporación. Y eso puede ser posible, pero debemos pagar nosotros para probarlo? El gobierno de Luis Arce ha firmado hace poco un segunde convenio con la corporación china CBC.
+El gobierno de Luis Arce ha firmado convenios con empresas extranjeras para la explotación del litio boliviano y los mantiene en secreto. Argumenta la necesidad de implementar la extracción directa del litio (EDL) que debería ser superior a la extracción por evaporación. Y eso puede ser posible, pero debemos pagar nosotros para probarlo?
 
 Para empezar: La Constitución declara en su artículo 158.12 que la Asamblea Legislativa tiene entre sus atribuciones:
 
@@ -23,7 +23,7 @@ Por su parte la ley 928 determina que YLB:
 
 > "desarrollará los procesos de química básica de sus recursos evaporíticos con una participación cien por ciento (100%) estatal para la producción y comercialización..."
 
-Es decir que YLB tiene el  monopolio en la extracción de recursos evaporíticos. Por lo tanto, un convenio no puede puede arriesgar participación de privados en la extracción, sean nacionales o extranjeros. Y un contrato no puede en ninguna circunstancia comprometerlos. Esta ley va mucho más allá de las promesas de Luis Arce de que YLB mantendrá `el control` de toda la cadena de producción del litio. Se refiere el mismo control que tenía YPFB Residual antes de la nacionalización de los hidrocarburos.
+Es decir que YLB tiene el  monopolio en la extracción de recursos evaporíticos. Por lo tanto, un convenio no puede puede arriesgar la participación de privados en la extracción, sean nacionales o extranjeros. Y a su vez un contrato no puede en ninguna circunstancia comprometerlos. Esta ley va mucho más allá de las promesas de Luis Arce de que YLB mantendrá `el control` de toda la cadena de producción del litio. Luis Arce se refiere al mismo control que tenía YPFB Residual antes de la nacionalización de los hidrocarburos, en la práctica ningún control.
 
 Los convenios o contratos son secretos. Eso da lugar a muchas especulaciones. Paso ahora a presentar las que me parecen más realistas y peligrosas.
 
@@ -31,7 +31,7 @@ Los convenios o contratos son secretos. Eso da lugar a muchas especulaciones. Pa
 
 El gobierno de Luis Arce firmo dos `convenios` con la CBC. El primero en enero de 2023. Según la prensa abre para una inversión china de alrededor de 1.000 millones de dólares, una suma altamente importante. Además se prevee el establecimiento de dos plantas industriales de EDL, lo que quiere decir que CBC ya tiene la tecnología apropiada.
 
-El segundo `convenio` viene después de un año, en enero de 2024 y limita la suma a invertir a solo 90 millones de dólares y prevee el establecimiento de un planta piloto, ya no dos plantas industriales. En otras palabras, el convenio se ha reducido a menos de la décima parte y la CBC ya no puede garantizar que posee la tecnología apropiada. Esto significa un nuevo retroceso en la explotación de nuestro litio. Además se abren las puertas a otras empresas que podrían reemplazar a CBC, tal vez empresas de Estados Unidos?
+El segundo `convenio` viene después de un año, en enero de 2024 y limita la suma a invertir a solo 90 millones de dólares y prevee el establecimiento de una planta piloto, ya no dos plantas industriales. En otras palabras, el convenio se ha reducido a menos de la décima parte y la CBC ya no puede garantizar que posee la tecnología apropiada. Esto significa un nuevo retroceso en la explotación de nuestro litio. Además se abren las puertas a otras empresas que podrían reemplazar a CBC, tal vez empresas de Estados Unidos?
 
 ## Si el convenio es realmente un contrato
 
