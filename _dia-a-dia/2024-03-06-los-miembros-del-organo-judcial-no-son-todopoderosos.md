@@ -19,12 +19,12 @@ Ahora, la Constitución Política del Estado tiene mecanismos de balance y contr
 
 > Artículo 159. Son atribuciones de la Cámara de Diputados, además de las que determina esta Constitución y la ley ...
 
-> 11. Acusar ante la Cámara de Senadores a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones.
+>>  11\. Acusar ante la Cámara de Senadores a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones.
 
 Y este es el artículo que le autoriza a la cámara de senadores a juzgar a los miembros del TCP:
 
-> Artículo 160. Son atribuciones de la Cámara de Senadores, además de las que determina esta Constitución y la ley ...
+>> Artículo 160. Son atribuciones de la Cámara de Senadores, además de las que determina esta Constitución y la ley ...
 
-> 6. Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones, cuya sentencia será aprobada por al menos dos tercios de los miembros presentes, de acuerdo con la ley.
+>  6\. Juzgar en única instancia a los miembros del Tribunal Constitucional Plurinacional, del Tribunal Supremo, del Tribunal Agroambiental y del Control Administrativo de Justicia por delitos cometidos en el ejercicio de sus funciones, cuya sentencia será aprobada por al menos dos tercios de los miembros presentes, de acuerdo con la ley.
 
 Se necesita mayoría absoluta entre los diputados para iniciar este proceso y dos tercios de senadores para emitir un juicio. Me parece que el descrédito y el aislamiento político del gobierno de Luis Arce Catacora nos da la posibilidad de éxito en un juicio de este tipo.
