@@ -6,11 +6,11 @@ background: /images/dia-a-dia/2024-10-22-flexibilidad-y-fortaleza.jpg
 background-width: 2048
 background-height: 1026
 Last-edited: 2024-10-22
-excerpt: La última batalla para recuperar al Estado Plurinacional de Bolivia
+excerpt: La gran batalla para recuperar al Estado Plurinacional de Bolivia
 ---
 
 # Flexibilidad y fortaleza
-La última batalla para recuperar al Estado Plurinacional de Bolivia
+La gran batalla para recuperar al Estado Plurinacional de Bolivia
 
 La lucha del pueblo boliviano para recuperar el poder adquisitivo de sus ingresos y la economía nacional, así como nuestra libertad, se centra en el departamento de Cochabamba. Los bloqueos más fuertes y de mayor presencia política están en Pirque-Parotani y en el Puente Ichilo. Además de la mayor parte de los puntos de bloqueo en ese departamento. En el resto del país se levantan nuevos puntos de bloqueo que a menudo son reprimidos inmediatamente por la policía pero vuelven a levantarse.
 
