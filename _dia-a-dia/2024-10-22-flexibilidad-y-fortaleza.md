@@ -28,5 +28,3 @@ Los espías y tiras de la policía actuarán en todo lugar y espiarán a nuestra
 La campaña de mentiras por los medios de comunicación caerá a los suelos a medida que el bloqueo crezca en todo el país. Lo medio mentirosos ya han perdido sus ingresos de este mes: El gobierno no les cancelará a fin de mes porque habrá escapado: Es hora que dejen de perder su moral!
 
 Hasta la Victoria Siempre!
-Jorge Soria
-Oslo, Noruega
