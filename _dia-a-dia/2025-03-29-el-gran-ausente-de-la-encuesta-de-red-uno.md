@@ -24,7 +24,7 @@ Pero Quino se contradice: Reconoce muy entre líneas que el MAS-IPSP ya no es pa
 
 La trampa que Quino, entre otros, le pone a Andrónico está envenenada. Su candidatura por el MAS-IPSP abrirá las puertas a la derecha y a un gobierno incapaz de salvar Bolivia: Engañaría a una parte del electorado suficiente para dividir al voto popular y encumbrar un gobierno acorralado por el imperio y enfrentado a las mayorías nacionales.
 
-La trampa está echada. Andrónico mostraría un juicio político muy deleznable si aceptara candidatear por el moribundo MAS-IPSP. No por su segura derrota electoral, si no por abandonar el único proyecto popular y por convertirse en el siguiente líder desechable de la nueva élite antipatria. Lamentablemente no vivimos en épocas tranquilas. No hay espacio para líderes calculadores. Son tiempos de dirigentes consecuentes y decididos.
+La trampa está echada. Andrónico mostraría un juicio político muy deleznable si aceptara candidatear por el moribundo MAS-IPSP. No por su segura derrota electoral, si no por abandonar el único proyecto popular y por convertirse en el siguiente líder desechable de la nueva élite antipatria. Lamentablemente no vivimos en épocas tranquilas. No hay espacio para líderes calculadores. Son tiempos de líderes consecuentes y decididos.
  
 Volviendo al gran ausente: Este fin de semana se refunda el Instrumento Político y el expresidente Evo Morales muestra un liderazgo político y una visión de país que no hemos visto desde Simón Bolivar y Andrés de Santa Cruz y Calahumana (2). Está a la cabeza de un torrente humano, el único que puede salvar Bolivia.
 
